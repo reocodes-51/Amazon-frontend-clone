@@ -1,3 +1,4 @@
+# Amazon-frontend-clone
 This is my first web development project , where I built a static Amazon homepage clone using only HTML and CSS .
 The goal of this project was to understand frontend fundamentals , layout design, and styling concepts .
 
@@ -20,6 +21,3 @@ Structuring complex webpages using HTML
 Styling navigation bars and footers
 Image placement and card-based UI design
 Writing clean and readable CSS
-
-
-# Amazon-frontend-clone
